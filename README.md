@@ -1,5 +1,7 @@
 # FaceWoof
 
+FaceWoof is a full-stack web application I completed at Hack Reactor with five other people. My front-end responsibility was the profile page and the profile card. The designing and engineering of the back end PostgreSQL Database was an collaborative effort.
+
 ## Features
 
 ### Discover
